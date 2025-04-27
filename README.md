@@ -86,4 +86,4 @@ The code in the `LoRA_finetune.ipynb` notebook is heavily based on and adapted f
 
 ## License
 
-(Optional: Add license information here, e.g., MIT License, Apache 2.0, etc. Consider if the original base code had a license you should also adhere to.)
+MIT License
